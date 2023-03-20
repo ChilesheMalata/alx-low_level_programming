@@ -3,7 +3,6 @@
 #include <time.h>
 /**
  * main - Print a random numbers
- * Code by: Prince Solomon
  * Return: 0
 */
 int main(void)
